@@ -1,1 +1,1 @@
-# Use Terraform-module repo in github tags as registry for next projects
+# Use https://github.com/sajidmehdi14/Terraform-modules repo in github tags as registry for next projects
